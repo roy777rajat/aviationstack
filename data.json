@@ -1,0 +1,313 @@
+{
+    "data": [
+        {
+            "aircraft": null,
+            "airline": {
+                "iata": "EK",
+                "icao": "UAE",
+                "name": "Emirates"
+            },
+            "arrival": {
+                "actual": "2025-05-10T05:11:00+00:00",
+                "actual_runway": "2025-05-10T05:11:00+00:00",
+                "airport": "Dubai",
+                "baggage": "3",
+                "delay": 16,
+                "estimated": "2025-05-10T05:14:00+00:00",
+                "estimated_runway": "2025-05-10T05:11:00+00:00",
+                "gate": null,
+                "iata": "DXB",
+                "icao": "OMDB",
+                "scheduled": "2025-05-10T04:55:00+00:00",
+                "terminal": "2",
+                "timezone": "Asia/Dubai"
+            },
+            "departure": {
+                "actual": "2025-05-10T02:11:00+00:00",
+                "actual_runway": "2025-05-10T02:11:00+00:00",
+                "airport": "Netaji Subhas Chandra",
+                "delay": 42,
+                "estimated": "2025-05-10T01:30:00+00:00",
+                "estimated_runway": "2025-05-10T02:11:00+00:00",
+                "gate": null,
+                "iata": "CCU",
+                "icao": "VECC",
+                "scheduled": "2025-05-10T01:30:00+00:00",
+                "terminal": null,
+                "timezone": "Asia/Kolkata"
+            },
+            "flight": {
+                "codeshared": {
+                    "airline_iata": "fz",
+                    "airline_icao": "fdb",
+                    "airline_name": "flydubai",
+                    "flight_iata": "fz462",
+                    "flight_icao": "fdb462",
+                    "flight_number": "462"
+                },
+                "iata": "EK2261",
+                "icao": "UAE2261",
+                "number": "2261"
+            },
+            "flight_date": "2025-05-10",
+            "flight_status": "landed",
+            "live": null
+        },
+        {
+            "aircraft": {
+                "iata": "B77W",
+                "icao": "B77W",
+                "icao24": "89620D",
+                "registration": "A6-EGL"
+            },
+            "airline": {
+                "iata": "EK",
+                "icao": "UAE",
+                "name": "Emirates"
+            },
+            "arrival": {
+                "actual": "2025-05-10T12:56:00+00:00",
+                "actual_runway": "2025-05-10T12:56:00+00:00",
+                "airport": "Dubai",
+                "baggage": "9",
+                "delay": null,
+                "estimated": "2025-05-10T12:51:00+00:00",
+                "estimated_runway": "2025-05-10T12:56:00+00:00",
+                "gate": null,
+                "iata": "DXB",
+                "icao": "OMDB",
+                "scheduled": "2025-05-10T13:05:00+00:00",
+                "terminal": "3",
+                "timezone": "Asia/Dubai"
+            },
+            "departure": {
+                "actual": "2025-05-10T10:03:00+00:00",
+                "actual_runway": "2025-05-10T10:03:00+00:00",
+                "airport": "Netaji Subhas Chandra",
+                "delay": 18,
+                "estimated": "2025-05-10T09:45:00+00:00",
+                "estimated_runway": "2025-05-10T10:03:00+00:00",
+                "gate": null,
+                "iata": "CCU",
+                "icao": "VECC",
+                "scheduled": "2025-05-10T09:45:00+00:00",
+                "terminal": "2",
+                "timezone": "Asia/Kolkata"
+            },
+            "flight": {
+                "codeshared": null,
+                "iata": "EK571",
+                "icao": "UAE571",
+                "number": "571"
+            },
+            "flight_date": "2025-05-10",
+            "flight_status": "landed",
+            "live": null
+        },
+        {
+            "aircraft": null,
+            "airline": {
+                "iata": "EK",
+                "icao": "UAE",
+                "name": "Emirates"
+            },
+            "arrival": {
+                "actual": null,
+                "actual_runway": null,
+                "airport": "Dubai",
+                "baggage": "11",
+                "delay": null,
+                "estimated": null,
+                "estimated_runway": null,
+                "gate": null,
+                "iata": "DXB",
+                "icao": "OMDB",
+                "scheduled": "2025-05-11T00:05:00+00:00",
+                "terminal": "3",
+                "timezone": "Asia/Dubai"
+            },
+            "departure": {
+                "actual": null,
+                "actual_runway": null,
+                "airport": "Netaji Subhas Chandra",
+                "delay": null,
+                "estimated": "2025-05-10T20:45:00+00:00",
+                "estimated_runway": null,
+                "gate": null,
+                "iata": "CCU",
+                "icao": "VECC",
+                "scheduled": "2025-05-10T20:45:00+00:00",
+                "terminal": "2",
+                "timezone": "Asia/Kolkata"
+            },
+            "flight": {
+                "codeshared": null,
+                "iata": "EK573",
+                "icao": "UAE573",
+                "number": "573"
+            },
+            "flight_date": "2025-05-10",
+            "flight_status": "scheduled",
+            "live": null
+        },
+        {
+            "aircraft": {
+                "iata": "B38M",
+                "icao": "B38M",
+                "icao24": "8965D7",
+                "registration": "A6-FKL"
+            },
+            "airline": {
+                "iata": "FZ",
+                "icao": "FDB",
+                "name": "flydubai"
+            },
+            "arrival": {
+                "actual": "2025-05-10T05:11:00+00:00",
+                "actual_runway": "2025-05-10T05:11:00+00:00",
+                "airport": "Dubai",
+                "baggage": "3",
+                "delay": 16,
+                "estimated": "2025-05-10T05:14:00+00:00",
+                "estimated_runway": "2025-05-10T05:11:00+00:00",
+                "gate": null,
+                "iata": "DXB",
+                "icao": "OMDB",
+                "scheduled": "2025-05-10T04:55:00+00:00",
+                "terminal": "2",
+                "timezone": "Asia/Dubai"
+            },
+            "departure": {
+                "actual": "2025-05-10T02:11:00+00:00",
+                "actual_runway": "2025-05-10T02:11:00+00:00",
+                "airport": "Netaji Subhas Chandra",
+                "delay": 42,
+                "estimated": "2025-05-10T01:30:00+00:00",
+                "estimated_runway": "2025-05-10T02:11:00+00:00",
+                "gate": null,
+                "iata": "CCU",
+                "icao": "VECC",
+                "scheduled": "2025-05-10T01:30:00+00:00",
+                "terminal": null,
+                "timezone": "Asia/Kolkata"
+            },
+            "flight": {
+                "codeshared": null,
+                "iata": "FZ462",
+                "icao": "FDB462",
+                "number": "462"
+            },
+            "flight_date": "2025-05-10",
+            "flight_status": "landed",
+            "live": null
+        },
+        {
+            "aircraft": {
+                "iata": "B77W",
+                "icao": "B77W",
+                "icao24": "89620D",
+                "registration": "A6-EGL"
+            },
+            "airline": {
+                "iata": "EK",
+                "icao": "UAE",
+                "name": "Emirates"
+            },
+            "arrival": {
+                "actual": "2025-05-09T13:05:00+00:00",
+                "actual_runway": "2025-05-09T13:05:00+00:00",
+                "airport": "Dubai",
+                "baggage": "11",
+                "delay": null,
+                "estimated": "2025-05-09T13:05:00+00:00",
+                "estimated_runway": "2025-05-09T13:05:00+00:00",
+                "gate": null,
+                "iata": "DXB",
+                "icao": "OMDB",
+                "scheduled": "2025-05-09T13:05:00+00:00",
+                "terminal": "3",
+                "timezone": "Asia/Dubai"
+            },
+            "departure": {
+                "actual": "2025-05-09T10:21:00+00:00",
+                "actual_runway": "2025-05-09T10:21:00+00:00",
+                "airport": "Netaji Subhas Chandra",
+                "delay": 37,
+                "estimated": "2025-05-09T09:45:00+00:00",
+                "estimated_runway": "2025-05-09T10:21:00+00:00",
+                "gate": null,
+                "iata": "CCU",
+                "icao": "VECC",
+                "scheduled": "2025-05-09T09:45:00+00:00",
+                "terminal": "2",
+                "timezone": "Asia/Kolkata"
+            },
+            "flight": {
+                "codeshared": null,
+                "iata": "EK571",
+                "icao": "UAE571",
+                "number": "571"
+            },
+            "flight_date": "2025-05-09",
+            "flight_status": "landed",
+            "live": null
+        },
+        {
+            "aircraft": {
+                "iata": "B77W",
+                "icao": "B77W",
+                "icao24": "8963DC",
+                "registration": "A6-EPM"
+            },
+            "airline": {
+                "iata": "EK",
+                "icao": "UAE",
+                "name": "Emirates"
+            },
+            "arrival": {
+                "actual": "2025-05-09T23:43:00+00:00",
+                "actual_runway": "2025-05-09T23:43:00+00:00",
+                "airport": "Dubai",
+                "baggage": "11",
+                "delay": null,
+                "estimated": "2025-05-09T23:42:00+00:00",
+                "estimated_runway": "2025-05-09T23:43:00+00:00",
+                "gate": null,
+                "iata": "DXB",
+                "icao": "OMDB",
+                "scheduled": "2025-05-10T00:05:00+00:00",
+                "terminal": "3",
+                "timezone": "Asia/Dubai"
+            },
+            "departure": {
+                "actual": "2025-05-09T20:50:00+00:00",
+                "actual_runway": "2025-05-09T20:50:00+00:00",
+                "airport": "Netaji Subhas Chandra",
+                "delay": 6,
+                "estimated": "2025-05-09T20:45:00+00:00",
+                "estimated_runway": "2025-05-09T20:50:00+00:00",
+                "gate": null,
+                "iata": "CCU",
+                "icao": "VECC",
+                "scheduled": "2025-05-09T20:45:00+00:00",
+                "terminal": "2",
+                "timezone": "Asia/Kolkata"
+            },
+            "flight": {
+                "codeshared": null,
+                "iata": "EK573",
+                "icao": "UAE573",
+                "number": "573"
+            },
+            "flight_date": "2025-05-09",
+            "flight_status": "landed",
+            "live": null
+        }
+    ],
+    "pagination": {
+        "count": 6,
+        "limit": 100,
+        "offset": 0,
+        "total": 6
+    }
+}
