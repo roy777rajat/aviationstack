@@ -19,8 +19,8 @@ def lambda_handler(event, context):
     # Environment variables or hard-coded values
     current_datetime = datetime.now().strftime("%d-%m-%Y %H:%M:%S")
         
-    sender = "roy777rajat@gmail.com"
-    recipient = ["uk.rajatroy@gmail.com","anindita21bakshi@gmail.com"]
+    sender = "sender@gmail.com"
+    recipient = ["receiver1@gmail.com","receiver2@gmail.com"]
     region = "eu-west-1"
 
     subject = f"Emirates Flight Live Status from CCU to DXB {current_datetime}"
