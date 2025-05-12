@@ -125,9 +125,6 @@ def parse_json(json_data):
         print("No flight data found.")
 
 
-#url = "https://api.aviationstack.com/v1/flights?access_key=c95d7f8ed7d719600805f8e1cea6663b&&dep_iata=CCU&arr_iata=DXB"
-#response = requests.get(url)
-#pp_json(response.json())
 
 
 
