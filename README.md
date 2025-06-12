@@ -17,7 +17,17 @@ The pipeline is designed to be:
 - **Maintainable**: Modular code and infrastructure as code friendly.
 
 ---
+### Network Diagram
 
+![Aviation Stack AWS Architecture](doc/FlightScheduleAndArrivalInfo.jpg)
+
+---
+
+### Notification
+
+![Aviation Stack AWS Architecture](doc/FlightScheduleAndArrivalInfo-EMail.jpg)
+
+---
 ## Key AWS Services & Their Roles
 
 ### AWS EventBridge (CloudWatch Events)
